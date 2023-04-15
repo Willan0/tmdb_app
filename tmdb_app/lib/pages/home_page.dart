@@ -25,6 +25,7 @@ class HomePage extends StatelessWidget {
           child: child,
         ),
         child: Scaffold(
+
           backgroundColor: kPrimaryBackgroundColor,
           body: SingleChildScrollView(
             child: Column(
